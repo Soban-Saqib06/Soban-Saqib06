@@ -1,5 +1,3 @@
-<h1 align="center">Hi there, I'm Soban 👋</h1>
-
 <p align="center">
   <img src="koi/koi.gif" width="256" alt="My Koi" />
 </p>
